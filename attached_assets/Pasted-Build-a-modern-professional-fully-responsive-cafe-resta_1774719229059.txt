@@ -1,0 +1,82 @@
+Build a modern, professional, fully responsive cafe/restaurant website for a local business named "Cha A Chumuk" located in Khanakul, Hooghly, India.
+
+TECH REQUIREMENTS:
+- Use HTML, CSS, and JavaScript (no frameworks)
+- Clean, well-structured code
+- Fully responsive for mobile and desktop
+- Smooth animations using CSS and JavaScript (not over-heavy)
+
+CORE FEATURES:
+
+1. NAVIGATION BAR:
+- Sticky navbar with logo (Cha A Chumuk)
+- Menu items: Home, Menu, Contact
+- Language toggle button: English / Bengali
+- Theme toggle button: Light Mode / Dark Mode
+- Smooth animated transitions when switching theme and language
+
+2. THEME SYSTEM:
+- Light Mode Colors: white, sky blue, red accents
+- Dark Mode Colors: purple, black, deep blue, violet accents
+- Smooth animated color transitions (0.3s–0.5s ease)
+
+3. LANGUAGE SYSTEM:
+- Full website supports English and Bengali
+- Toggle switches all text dynamically (no reload)
+- Bengali font should be clean and readable (use Google Fonts like "Noto Sans Bengali")
+
+4. HOME PAGE:
+- Hero section with cafe-style background image (food/tea)
+- Animated overlay text:
+  - Bengali: "চা এ চুমুক, আড্ডা জমুক"
+  - English: "Sip Tea, Enjoy Moments"
+- Call-to-action buttons: "View Menu", "Contact Now"
+- Image overlay effects (hover zoom, fade, floating text)
+- Section showing popular food items with images
+
+5. MENU PAGE:
+- Upload and display menu images (use provided menu images)
+- Also create a structured menu list (name + price)
+- Add SEARCH BAR:
+  - User can search food items
+  - Results show item name and price instantly
+- Add category filters (Tea, Chinese, Biryani, Snacks)
+- Smooth animations for filtering and searching
+
+6. CONTACT PAGE:
+- Show:
+  - Phone number: 7947432180
+  - WhatsApp button (click to chat)
+- Embed Google Map of Khanakul (placeholder if needed)
+- Simple contact section with call-to-action
+
+7. UI/UX DESIGN:
+- Cafe-style aesthetic
+- Use cards, rounded corners, soft shadows
+- Use modern typography
+- Use different font sizes, weights, and styles for visual hierarchy
+
+8. ANIMATIONS:
+- Smooth scroll animations
+- Fade-in and slide-in effects on sections
+- Hover effects on images and buttons
+- Animated theme switch
+- Animated language switch
+- Floating elements in hero section
+
+9. PERFORMANCE:
+- Optimize images (use compressed images)
+- Avoid heavy libraries
+- Fast loading speed
+
+10. EXTRA:
+- Add footer with:
+  - Business name
+  - Location (Khanakul, Hooghly)
+  - Social placeholder
+- Make code easy to edit later
+
+OUTPUT:
+- Provide complete working code (index.html, style.css, script.js)
+- Code must be clean and separated properly
+- Everything should work without errors
