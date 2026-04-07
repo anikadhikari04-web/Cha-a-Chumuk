@@ -64,7 +64,7 @@ export default function PhotosPage({ language }) {
       a.href = url; a.download = `cha-e-chumuk-${name}.jpg`
       document.body.appendChild(a); a.click()
       document.body.removeChild(a); URL.revokeObjectURL(url)
-    } catch { alert('Download failed') }
+    } catch (err) { console.error(err); alert('Download failed') }
   }
 
   return (
